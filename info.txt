@@ -1,1 +1,2 @@
 Hi Git ! how are you
+step: commit and update , push the code to git hub
